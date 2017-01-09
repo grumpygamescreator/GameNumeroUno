@@ -1,0 +1,68 @@
+"""
+design document
+we'll start off the first one with the familiar; python/pygame
+
+-the dragon is dressed as a princess and crying out for help in its tower atop a little "vw beetle" car
+-the moose is cool af and smokes and has shades and drives a race car and the gameplay should be somewhat
+akin to that of a road rage game like Death Skid Marks
+-the bad guy would then ironically be the princess (dressed in really evil-looking, bad-guy attire?)
+-sidescroller or topdown?
+-jump right into the game (learn the basics of play through a couple "easy" levels)
+-at some point have the backstory explained
+-backstory: you view the life of the moose (skipping past his inception) starting somewhere in his time as a newborn to adulthood
+-along the way the princess motives are explained (the dragon killed and ate her prince charming)
+the intro scene:
+(cuteness + lullaby music) <first baby in crib shot>
+aged a bit
+his parents try to make him jump as hes just a crawling moose
+they are concerned when he cannot
+he grows older, the other moose kids get really good at jumping (theyre jumping-moose)
+he remains bad at jumping 
+his frustration continues into his teenage years as the moose around him become fully matured jumpers (again; theyre jumping-moose)
+but toward the start of his adult life he grows to accept it, even when others point out his inadequacies and make fun of him he gets on with it (with the occasional tantrum)
+on a berry picking trip he gets lost in the woods
+day turns to dusk turns to night and things start to get scary for the little moose
+something approaches in the dark
+a massive roar is heard in the distance
+the thing ever approaching
+blammm its a dragon
+oh but it just collided with the moose as it was running from something aswell (which it conveys to the moose in a very panicking fashion)
+the moose consoles it and hands it some berries (after the dragons stomach makes light of its hunger through a sort of creaking noise)
+it loves berries!
+they eat loads of berries 
+the dragon sets a tree ablaze (as a nice little "fire")
+they sit side by side eating more berries and discussing
+dragon gives moose hug
+night turns to day and the dragon takes moose flying 
+oh the joy moose feels finally reaching high places
+higher than he'd ever been or wanted to be
+higher than any moose had ever jumped
+they set down at a cliff by the sea
+they fall in love
+they fly back to moose village
+when they get back everyone makes fun of moose for dating a dragon
+dragon spits fire at them
+moose smiles
+skip to them getting married
+enter princess
+she wedding crashes (literally (have a moose with a dumb look on his face holding a sign "wedding crasher" at the princess) she crashes into it with her car) 
+multiple jumping moose die in the horrible "accident"
+she leaps at dragon
+captures dragon with chain around mouth and wings
+takes dragon into car
+drives off
+moose follows
+in his awesome race car right next to the wedding scene
+puts on shades cuz why not
+arrive
+princess throws dragon into tower
+deadlifts tower onto her car (moose gets funny look (big eyes (honky horn sound?)))
+moose goes to tower tries to open door, cant
+looks up at the balcony, realizing he cant jump that high
+tries anyway
+fails
+cue princess manaiacal laugh
+she gets in car
+drives off
+moose gets in car
+follows"""
